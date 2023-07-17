@@ -1,0 +1,182 @@
+
+#home{
+    width: 100%;
+    height: 100vh;
+}
+
+.navbar-brand img{
+    width: 200px;
+    height: 100px;
+}
+
+.navbar-nav .nav-item{
+    width: 130px;
+    transition: 0.3s;
+}
+
+.navbar-nav .nav-item a{
+    font-family: Oswald, sans-serif;
+    font-weight: bold;
+}
+
+.navbar-nav .nav-item i{
+    margin-right: 10px;
+}
+
+.navbar-nav .nav-item:hover i{
+    color: #fac031;
+}
+
+.carousel {
+    width:100%;
+    height:150px;
+    margin-top: 50px;
+}
+
+.carousel-inner .carousel-item img{
+    width:100%;
+    height:150px;
+}
+
+#home{
+    width: 100%;
+    height: 100vh;
+}
+
+#main-body h1{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    font-size: 70px;
+}
+
+#main-body h1 span{
+    font-family: mv boli;
+    color: #fac031;
+    font-size: 73px;
+}
+
+#main-body p{
+    font-weight: 400;
+    text-align: justify;
+}
+
+#main-body .main-text{
+    position: relative;
+    top: 50px;
+}
+
+
+#aboutUs h1{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    font-size: 70px;
+}
+
+#aboutUs h1 span{
+    font-family: mv boli;
+    color: #fac031;
+    font-size: 73px;
+}
+
+#aboutUs p{
+    font-weight: 400;
+    text-align: justify;
+}
+
+.menu h1{
+    text-align: center;
+    font-size: 70px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.menu span{
+    font-size: 73px;
+    font-family: mv boli;
+    margin-left: 10px;
+    color: #fac031;
+}
+
+.menu{
+    margin-top: 20px;
+}
+
+.menu .card-title{
+    color: #fac031;
+    font-family: mv boli;
+}
+
+.menu h5 .card-text{
+    font-family: Oswald, sans-serif;
+}
+
+.card img{
+    width: 300px;
+    height: 245px;
+}
+
+.card .card-text i{
+    color: #00FF00;
+}
+
+.card .card-text span{
+    font-size: 12px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#review h1{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    font-size: 70px;
+}
+
+#review span{
+    font-size: 73px;
+    font-family: mv boli;
+    margin-left: 10px;
+    color: #fac031;
+}
+
+#review .bi-facebook{
+    color: #3b5998;
+}
+
+#review .bi-twitter{
+    color: #00acee;
+}
+
+#review .bi-instagram{
+    color: #fa7e1e;
+}
+
+#review h5{
+    font-family: mv boli;
+    font-weight: bolder;
+}
+
+#contact ul li span{
+    font-family: mv boli;
+}
+
+#contact i.bi-facebook{
+    color: #3b5998;
+}
+
+#contact i.bi-instagram{
+    color: #fa7e1e;
+}
+
+#contact i.bi-twitter{
+    color: #00acee;
+}
+
+#contact p{
+    font-family: mv boli;
+}
+
+#main-body img{
+    width: 450px;
+}
+
+#aboutUs img{
+    width: 450px;
+}
